@@ -84,3 +84,23 @@ console.log(fruits[8])
 fruits.length = 2
 console.log(Object.keys(fruits))
 console.log(fruits.length)
+
+const modal = document.querySelector('#my-modal');
+const modalBtn = document.querySelector('#modal-btn');
+const closedbtn = document.querySelector('.close');
+
+modalBtn.addEventListener('click', openModal);
+closedbtn.addEventListener('click', closeModal);
+window.addEventListener('click', outsideClick);
+
+function openModal() {
+    modal.getElementsByClassName.display = 'block';
+}
+function clodeModal() {
+    modal.getElementsByClassName.display = 'none';
+}
+function outsideCLick(e) {
+    if(e.target == modal) {
+        modal.getElementsByClassName.display = 'none';
+    }
+}
