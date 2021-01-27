@@ -104,3 +104,32 @@ function outsideCLick(e) {
         modal.getElementsByClassName.display = 'none';
     }
 }
+function myFunction() {
+    x = document.getElementById('demo')
+    x.innerHTML = number.map(Math.sqrt);
+}
+var numbers = [65, 44, 12, 4];
+var newarray = numbers.map(myFunction)
+function myFunction(num) {
+    return num * 10;
+}
+document.getElementById('demo').innerHTML = newarray;
+var person = [
+    {firstname: 'Malcom', lastnme: 'Reynolds'},
+    {firstname: 'Kaylee', lastname: 'Frye'},
+    {firstname: 'Jayne', lastnme: 'Cobb'}
+];
+
+function getFullName(item) {
+    var fullname = [item.firstname, item.lastname].join(' ');
+    return fullname;
+}
+function myFunction() {
+    document.getElementById('demo').innerHTML = person.map(getFullName);
+}
+var new_array = arr.map(function callback(element, index, array){
+    // return value for the new_array
+}[thisArg])
+const numbers = [1,2,3,4];
+const doubled = numbers.map(items => item * 2);
+console.log(doubled);
