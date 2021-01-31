@@ -133,3 +133,11 @@ var new_array = arr.map(function callback(element, index, array){
 const numbers = [1,2,3,4];
 const doubled = numbers.map(items => item * 2);
 console.log(doubled);
+myAwesomeArray.some(test => {
+    if(test === 'd') {
+        return test;
+    }
+})
+myAwesomeArray.some(test => test === 'd');
+const myAwesomeArray = [5,4,3,2,1]
+myAwesomeArray.map(x => x * x)
