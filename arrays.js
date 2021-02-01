@@ -141,3 +141,9 @@ myAwesomeArray.some(test => {
 myAwesomeArray.some(test => test === 'd');
 const myAwesomeArray = [5,4,3,2,1]
 myAwesomeArray.map(x => x * x)
+const array = [1,2,3,4,5];
+array.map(x => x * 12);
+console.write(array + ' this is the result');
+if(array === 1) {
+    return 'good';
+}
