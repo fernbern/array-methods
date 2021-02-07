@@ -147,3 +147,4 @@ console.write(array + ' this is the result');
 if(array === 1) {
     return 'good';
 }
+Console.log("");
