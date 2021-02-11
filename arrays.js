@@ -148,3 +148,4 @@ if(array === 1) {
     return 'good';
 }
 Console.log("");
+var arr = [1,2,3,4,5];
