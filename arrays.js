@@ -34,6 +34,7 @@ console.log(fruits.length);
 
 let fruits = fruits[0]
 let last = fruits[fruits.length - 1];
+var x = 12;
 
 fruits.ferEach(function(item, index, array) {
     console.log(item, index)
