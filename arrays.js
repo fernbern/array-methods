@@ -31,7 +31,7 @@ unshift();
 valueOf();
 let fruits = ['Apples', 'Banana']
 console.log(fruits.length);
-
+let chair = [1,2,3]
 let fruits = fruits[0]
 let last = fruits[fruits.length - 1];
 var x = 12;
