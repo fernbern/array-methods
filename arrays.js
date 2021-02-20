@@ -13,6 +13,7 @@ includes();
 indexOf();
 isArray();
 join();
+join();
 keys();
 lastIndexOf();
 map();
