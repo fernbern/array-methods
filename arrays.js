@@ -21,13 +21,16 @@ join();
 join();
 keys();
 keys();
+keys();
 lastIndexOf();
 map();
 map();
 pop();
 pop();
+pop();
 push();
 push();
+push(); push(); push();
 reduce();
 reduceRight();
 reverse();
@@ -38,6 +41,7 @@ some();
 sort();
 splice();
 toString();
+unshift();
 unshift();
 valueOf();
 let fruits = ['Apples', 'Banana']
@@ -56,6 +60,7 @@ let navLength = fruits.push('Orange')
 let last = fruits.pop()
 
 let first = fruits.shift()
+let first = fruits.shift();
 
 let newLength = fruits.unshift('Strawberry')
 
