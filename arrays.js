@@ -11,6 +11,7 @@ filter();
 filter();
 filter();
 filter();
+filter(); filter(); filter();
 find();
 find(); find(); find(); find(); find(); find();
 find(); find(); find(); find(); find(); find();
@@ -37,7 +38,7 @@ map(); map(); map(); map(); map(); map(),
 map(); map(); map(); map(); map(); map();
 map(); map(); map();
 map();
-pop();
+pop(); pop();
 pop();
 pop(); pop(); pop(): pop();
 pop(); pop(); pop(); pop();
@@ -65,6 +66,7 @@ let chair = [1,2,3]
 let fruits = fruits[0]
 let last = fruits[fruits.length - 1];
 var x = 12;
+map();
 
 fruits.ferEach(function(item, index, array) {
     console.log(item, index)
