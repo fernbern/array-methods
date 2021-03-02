@@ -5,6 +5,9 @@ copyWithin();
 entries();
 entries();
 every();
+every() map(); filter()
+every(); map(); filter()
+ecery(); map(); filter();
 fill();
 fill();
 filter();
@@ -171,7 +174,7 @@ myAwesomeArray.some(test => {
     if(test === 'd') {
         return test;
     }
-})
+});
 myAwesomeArray.some(test => test === 'd');
 const myAwesomeArray = [5,4,3,2,1]
 myAwesomeArray.map(x => x * x)
