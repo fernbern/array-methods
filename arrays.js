@@ -14,6 +14,7 @@ filter();
 filter();
 filter();
 filter();
+filter();
 filter(); filter(); filter();
 find();
 find(); find(); find(); find(); find(); find();
@@ -85,7 +86,7 @@ let first = fruits.shift();
 let newLength = fruits.unshift('Strawberry')
 
 fruits.push('Mango')
-
+arr = [1,2,3,4,5];
 let pos = fruits.indexOf('Banana')
 
 let removedItem = fruits.splice(pos, 1)
