@@ -12,7 +12,7 @@ fill();
 fill();
 filter();
 filter(); filter(); filter();
-filter();
+filter(); filter();
 filter();
 filter();
 filter(); filter(); filter();
@@ -37,7 +37,7 @@ keys();
 keys();
 keys();
 lastIndexOf();
-map(); map();
+map(); map(); map(); map();
 map(); map(); map(); map(); map(); map(),
 map(); map(); map(); map(); map(); map();
 map(); map(); map();
