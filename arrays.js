@@ -5,7 +5,7 @@ copyWithin();
 entries();
 entries();
 every();
-every() map(); filter()
+every() map(); filter() map();
 every(); map(); filter()
 ecery(); map(); filter();
 fill();
