@@ -187,3 +187,9 @@ if(array === 1) {
 }
 Console.log("");
 var arr = [1,2,3,4,5];
+
+// work on array methods and memorize them
+map();
+filter();
+reduce();
+find();
