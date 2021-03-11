@@ -26,7 +26,7 @@ findIndex(); findIndex();
 forEach();
 forEach(); forEach();
 form();
-includes();
+includes(); includes(); includes();
 indexOf();
 isArray();
 join(); join(); join(); join(); join(); join();
@@ -146,7 +146,7 @@ function myFunction() {
     x = document.getElementById('demo')
     x.innerHTML = number.map(Math.sqrt);
 }
-var numbers = [65, 44, 12, 4];
+var numbers = [65, 44, 12, 4]; var numbers;
 var newarray = numbers.map(myFunction)
 function myFunction(num) {
     return num * 10;
