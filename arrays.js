@@ -196,3 +196,4 @@ find();
 const map = arr.map(x => x * 2);
 console.log(map);
 console.log('this is an array example');
+var = curiosity = true;
