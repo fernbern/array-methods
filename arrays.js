@@ -8,7 +8,7 @@ every();
 every() map(); filter() map();
 every(); map(); filter()
 ecery(); map(); filter();
-fill();
+fill(); map(); map(); arr.map();
 fill();
 filter();
 filter(); filter(); map() reduce(); find();
