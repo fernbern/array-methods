@@ -99,7 +99,7 @@ let pos = 1
 let n = 2
 
 let removedItems = vegitabless.splice(pos, n)
-
+console.log(arr.map());
 console.log(vegitables)
 console.log(removedItems)
 
