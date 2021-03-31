@@ -186,7 +186,7 @@ console.write(array + ' this is the result');
 if(array === 1) {
     return 'good';
 }
-Console.log("");
+Console.log("Colonize Mars!");
 var arr = [1,2,3,4,5];
 
 // work on array methods and memorize them
