@@ -60,7 +60,7 @@ shift(); shift(); shift();
 slice();
 some(); shift(); unshift(); pop(); push(); 
 sort();
-splice();
+splice(); console.log(this); map('hello world');
 toString();
 unshift(); unshift(); unshift();
 unshift();
