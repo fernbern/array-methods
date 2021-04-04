@@ -2,7 +2,7 @@
 concat();
 concat();
 copyWithin();
-entries();
+entries(); console.log() console.log(window.this);
 entries();
 every();
 every() map(); filter() map();
