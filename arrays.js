@@ -199,3 +199,5 @@ console.log(map);
 console.log('this is an array example');
 var = curiosity = true;
 arr.map(x => x * 8);
+// make an array about planets
+let planets = ['earth', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
