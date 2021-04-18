@@ -202,3 +202,4 @@ var = curiosity = true;
 arr.map(x => x * 8);
 // make an array about planets
 let planets = ['earth', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
+let mantra = 'practice as mush as you can and get better everyday :')';
