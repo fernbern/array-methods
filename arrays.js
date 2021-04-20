@@ -4,7 +4,7 @@ concat();
 copyWithin();
 entries(); console.log() console.log(window.this);
 entries();
-every();
+every(); every(); map();
 every() map(); filter() map();
 every(); map(); filter()
 ecery(); map(); filter();
