@@ -6,7 +6,7 @@ entries(); console.log() console.log(window.this);
 entries();
 every(); every(); map();
 every() map(); filter() map();
-every(); map(); filter()
+every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
 fill(); map(); map(); arr.map();
 map();
@@ -203,3 +203,6 @@ arr.map(x => x * 8);
 // make an array about planets
 let planets = ['earth', 'mars', 'jupiter', 'saturn', 'uranus', 'neptune', 'pluto'];
 let mantra = 'practice as mush as you can and get better everyday :')';
+function findJon() {
+    let r = 'p';
+}
