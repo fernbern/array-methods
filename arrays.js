@@ -9,7 +9,7 @@ every() map(); filter() map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
 fill(); map(); map(); arr.map();
-map();
+map(); map();
 fill();
 filter();
 filter(); filter(); map() reduce(); find();
