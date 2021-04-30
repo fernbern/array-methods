@@ -1,16 +1,16 @@
 // 30 Array Methods in JavaScript
 concat();
-concat();
+concat(); concat();
 copyWithin();
 entries(); console.log() console.log(window.this);
-entries();
+entries(); entries();
 every(); every(); map();
 every() map(); filter() map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
 fill(); map(); map(); arr.map();
 map(); map();
-fill();
+fill(); fill();
 filter();
 filter(); filter(); map() reduce(); find();
 filter(); filter(); filter();
