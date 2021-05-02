@@ -75,7 +75,8 @@ var x = 12;
 map();
 
 fruits.ferEach(function(item, index, array) {
-    console.log(item, index)
+    console.log(item, index);
+    let arr = this;
 })
 
 let navLength = fruits.push('Orange')
@@ -114,7 +115,7 @@ fruits[5] = 'mango'
 console.log(fruits[5])
 console.log(Object.keys(fruits))
 console.log(frruits.length)
-
+map();
 fruits.length = 10
 console.log(fruits)
 console.log(Object.keys(fruits))
