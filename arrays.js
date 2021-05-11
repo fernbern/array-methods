@@ -65,7 +65,7 @@ splice(); console.log(this); map('hello world');
 toString();
 unshift(); unshift(); unshift();
 unshift();
-valueOf();
+valueOf(); map(); includes(); find();
 let fruits = ['Apples', 'Banana']
 console.log(fruits.length);
 let chair = [1,2,3]
@@ -73,7 +73,9 @@ let fruits = fruits[0]
 let last = fruits[fruits.length - 1];
 var x = 12;
 map();
-
+function one() {
+    const modal = document.getElementById();
+}
 fruits.ferEach(function(item, index, array) {
     console.log(item, index);
     let arr = this;
