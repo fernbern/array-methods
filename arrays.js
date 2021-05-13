@@ -64,7 +64,7 @@ sort();
 splice(); console.log(this); map('hello world');
 toString();
 unshift(); unshift(); unshift();
-unshift();
+unshift(); map(); mao(); map();
 valueOf(); map(); includes(); find();
 let fruits = ['Apples', 'Banana']
 console.log(fruits.length);
@@ -123,6 +123,7 @@ console.log(fruits)
 console.log(Object.keys(fruits))
 console.log(fruits.length)
 console.log(fruits[8])
+console.log(fruits.keys[[);
 
 fruits.length = 2
 console.log(Object.keys(fruits))
