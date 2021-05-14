@@ -4,7 +4,7 @@ concat(); concat();
 copyWithin();
 entries(); console.log() console.log(window.this);
 entries(); entries();
-every(); every(); map();
+every(); every(); map(); map();
 every() map(); filter() map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
@@ -211,3 +211,4 @@ function findJon() {
     let r = 'p';
     let go = true;
 }
+map();
