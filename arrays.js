@@ -84,7 +84,7 @@ fruits.ferEach(function(item, index, array) {
 let navLength = fruits.push('Orange')
 
 let last = fruits.pop()
-
+let eat = 'fruit';
 let first = fruits.shift()
 let first = fruits.shift();
 
