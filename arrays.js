@@ -5,7 +5,7 @@ copyWithin();
 entries(); console.log() console.log(window.this);
 entries(); entries();
 every(); every(); map(); map();
-every() map(); filter() map();
+every() map(); filter() map(); map(); map(); map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
 fill(); map(); map(); arr.map(); map()
@@ -55,7 +55,7 @@ push(); push(); push();
 reduce();
 reduceRight();
 reverse();
-shift(); shift(); shift();
+shift(); shift(); shift(); shift();
 shift(); shift(); shift();
 shift(); shift(); shift();
 slice();
@@ -212,3 +212,4 @@ function findJon() {
     let go = true;
 }
 map();
+console.log(this);
