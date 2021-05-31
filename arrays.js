@@ -10,7 +10,7 @@ every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
 fill(); map(); map(); arr.map(); map()
 map(); map(); map(); console.log(this);
-fill(); fill(); fill();
+fill(); fill(); fill(); map();
 filter();
 filter(); filter(); map() reduce(); find();
 filter(); filter(); filter();
