@@ -11,7 +11,7 @@ ecery(); map(); filter();
 fill(); map(); map(); arr.map(); map()
 map(); map(); map(); console.log(this);
 fill(); fill(); fill(); map();
-filter();
+filter(); map(); indexOf();
 filter(); filter(); map() reduce(); find();
 filter(); filter(); filter();
 filter(); filter(); map(); map()
