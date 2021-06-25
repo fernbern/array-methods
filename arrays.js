@@ -1,7 +1,7 @@
 // 30 Array Methods in JavaScript
 concat();
 concat(); concat(); map();
-copyWithin(); map();
+copyWithin(); map(); map();
 entries(); console.log() console.log(window.this);
 entries(); entries(); map();
 every(); every(); map(); map();
