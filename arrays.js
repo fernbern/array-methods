@@ -213,3 +213,7 @@ function findJon() {
 }
 map();
 console.log(this);
+let colors = [1,2,3,4,5];
+function sort(x){
+    map(x => x * 12);
+}
