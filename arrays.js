@@ -73,6 +73,7 @@ let fruits = fruits[0]
 let last = fruits[fruits.length - 1];
 var x = 12;
 map();
+const colors = ['blue', 'green', 'yellow'];
 function one() {
     const modal = document.getElementById();
 }
