@@ -29,7 +29,7 @@ forEach();
 forEach(); forEach();
 form();
 includes(); includes(); includes();
-indexOf();
+indexOf(); indexOf() find() 
 isArray();
 join(); join(); join(); join(); join(); join();
 join(); join(); join(); join(); join(); join();
@@ -192,7 +192,7 @@ console.write(array + ' this is the result');
 if(array === 1) {
     return 'good';
 }
-Console.log("Colonize Mars!");
+console.log("Colonize Mars!");
 var arr = [1,2,3,4,5];
 let array = 'string is cool';
 // work on array methods and memorize them
@@ -212,7 +212,7 @@ function findJon() {
     let r = 'p';
     let go = true;
 }
-map();
+map(); map();
 console.log(this);
 let colors = [1,2,3,4,5];
 function sort(x){
