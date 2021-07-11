@@ -8,7 +8,7 @@ every(); every(); map(); map();
 every() map(); filter() map(); map(); map(); map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter();
-fill(); map(); map(); arr.map(); map()
+fill(); map(); map(); arr.map(); map() map(); map();
 map(); map(); map(); console.log(this);
 fill(); fill(); fill(); map();
 filter(); map(); indexOf();
