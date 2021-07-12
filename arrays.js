@@ -82,6 +82,8 @@ fruits.ferEach(function(item, index, array) {
     let arr = this;
 })
 
+function one() { console.log('one');}
+
 let navLength = fruits.push('Orange')
 
 let last = fruits.pop()
