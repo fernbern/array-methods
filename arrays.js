@@ -214,7 +214,7 @@ function findJon() {
     let r = 'p';
     let go = true;
 }
-map(); map();
+map(); filter(); find(); pop(); push();
 console.log(this);
 let colors = [1,2,3,4,5];
 function sort(x){
