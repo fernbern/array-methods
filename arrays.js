@@ -7,7 +7,7 @@ entries(); entries(); map(); map();
 every(); every(); map(); map();
 every() map(); filter() map(); map(); map(); map();
 every(); map(); filter() map(); find('job');
-ecery(); map(); filter(); let x = 10;
+ecery(); map(); filter(); let x = 10; const y = 10;
 fill(); map(); map(); arr.map(); map() map(); map();
 map(); map(); map(); console.log(this);
 fill(); fill(); fill(); map();
