@@ -3,7 +3,7 @@ concat();
 concat(); concat(); map();
 copyWithin(); map(); map();
 entries(); console.log() console.log(window.this);
-entries(); entries(); map(); map();
+entries(); entries(); map(); map(); map(); map(); map();
 every(); every(); map(); map(); map();
 every() map(); filter() map(); map(); map(); map();
 every(); map(); filter() map(); find('job');
