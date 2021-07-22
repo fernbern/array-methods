@@ -4,7 +4,7 @@ concat(); concat(); map();
 copyWithin(); map(); map();
 entries(); console.log() console.log(window.this);
 entries(); entries(); map(); map(); map(); map(); map();
-every(); every(); map(); map(); map();
+every(); every(); map(); map(); map(); map(); map();
 every() map(); filter() map(); map(); map(); map();
 every(); map(); filter() map(); find('job');
 ecery(); map(); filter(); let x = 10; const y = 10;
