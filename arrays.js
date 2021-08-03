@@ -198,7 +198,7 @@ console.log("Colonize Mars!");
 var arr = [1,2,3,4,5];
 let array = 'string is cool';
 // work on array methods and memorize them
-map();
+map(); map();
 filter();
 reduce();
 find();
