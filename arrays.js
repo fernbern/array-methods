@@ -224,3 +224,5 @@ const app = function(e) {
     let x = new Car('eagle', '2011';
     return x + ' this is a new car';
 }
+const arr = [1,2,3,4,5];
+const [x,y,z] = arr; // destructuring
