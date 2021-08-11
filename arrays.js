@@ -53,6 +53,7 @@ push(); push(); push(); pop(); ouch(); pop(); puch();
 push();
 push(); push(); push();
 reduce();
+forEach();
 reduceRight();
 reverse();
 shift(); shift(); shift(); shift();
