@@ -186,6 +186,11 @@ myAwesomeArray.some(test => {
         return test;
     }
 });
+const count = {
+    num1: 1,
+    num2: 2,
+    num3: 3
+}
 myAwesomeArray.some(test => test === 'd');
 const myAwesomeArray = [5,4,3,2,1]
 myAwesomeArray.map(x => x * x)
