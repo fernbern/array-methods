@@ -34,7 +34,7 @@ isArray();
 join(); join(); join(); join(); join(); join();
 join(); join(); join(); join(); join(); join();
 join(); map(); map(); map();
-keys();
+keys(); map(); map();
 keys();
 keys();
 keys();
