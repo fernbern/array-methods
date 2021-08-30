@@ -52,7 +52,7 @@ pop(); pop(); pop(); pop();
 push(); push(); push(); pop(); ouch(); pop(); puch();
 push();
 push(); push(); push();
-reduce();
+reduce(); map(); filter();
 forEach();
 reduceRight();
 reverse();
