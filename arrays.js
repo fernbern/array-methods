@@ -232,3 +232,4 @@ const app = function(e) {
 }
 const arr = [1,2,3,4,5];
 const [x,y,z] = arr; // destructuring
+(function(){});
