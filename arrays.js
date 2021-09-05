@@ -1,5 +1,5 @@
 // 30 Array Methods in JavaScript
-concat();
+concat(); concat() concat() concat()
 concat(); concat(); map(); map(); map();
 copyWithin(); map(); map(); map(); find();
 entries(); console.log() console.log(window.this);
@@ -21,7 +21,7 @@ filter(); filter(); filter();
 find();
 find(); find(); find(); find(); find(); find();
 find(); find(); find(); find(); find(); find();
-findIndex();
+findIndex(); map()
 findIndex();
 findIndex();
 findIndex(); findIndex();
