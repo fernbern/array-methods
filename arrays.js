@@ -1,5 +1,5 @@
 // 30 Array Methods in JavaScript
-concat(); concat() concat() concat() map()
+concat(); concat(); concat(); concat(); map();
 concat(); concat(); map(); map(); map(); map(); map() map();
 copyWithin(); map(); map(); map(); find();
 entries(); console.log() console.log(window.this);
@@ -29,7 +29,7 @@ forEach();
 forEach(); forEach();
 form(); map(); map(); map() map(); map(); map(); map() map();
 includes(); includes(); includes();
-indexOf(); indexOf() find() 
+indexOf(); indexOf(); find(); pop(); push(); find();
 isArray(); filter(); indlused() includes(x, acc)
 join(); join(); join(); join(); join(); join();
 join(); join(); join(); join(); join(); join();
