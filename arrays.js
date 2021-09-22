@@ -27,10 +27,10 @@ findIndex();
 findIndex(); findIndex();
 forEach();
 forEach(); forEach();
-form();
+form(); map(); map(); map() map(); map(); map(); map() map();
 includes(); includes(); includes();
 indexOf(); indexOf() find() 
-isArray();
+isArray(); filter(); indlused() includes(x, acc)
 join(); join(); join(); join(); join(); join();
 join(); join(); join(); join(); join(); join();
 join(); map(); map(); map();
