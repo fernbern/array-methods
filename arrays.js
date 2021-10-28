@@ -37,7 +37,7 @@ join(); map(); map(); map();
 keys(); map(); map();
 keys();
 keys(); keys(); every(); some();
-keys();
+keys(); map();
 lastIndexOf();
 map(); map(); map(); map();
 map(); map(); map(); map(); map(); map(),
